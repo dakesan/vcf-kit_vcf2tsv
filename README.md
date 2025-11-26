@@ -58,6 +58,12 @@ vcf2tsv --help
 - `wide`: One variant per row. Samples are expanded as columns.
 - `long`: One variant x sample per row. Samples are expanded as rows.
 
+## Acknowledgements
+
+This package is based on the `vcf2tsv` command from [VCF-kit](https://github.com/AndersenLab/VCF-kit) by Daniel E. Cook (AndersenLab).
+
+Original repository: https://github.com/AndersenLab/VCF-kit
+
 ## License
 
-MIT
+MIT (following the original VCF-kit license)
